@@ -6,9 +6,8 @@ h1 {
     background-image: url(./image/pattern.webp);
 }
 
-p {
-    color:gray
-}
+
+
 
 h1, h2, h3, p {
     font-family: Helvetica;
@@ -22,7 +21,7 @@ h1, h2, h3, p {
 .item{
     font-size: 32px;
     font-weight: bold;
-    color: white;
+    color: gray;
 }
 #brushes {
     background-color: rgb(0, 250, 33);
