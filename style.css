@@ -18,10 +18,10 @@ h1, h2, h3, p {
 .item{
     font-size: 32px;
     font-weight: bold;
-    color: white;
+    color: rgb(39, 36, 36);
 }
 #brushes {
-    background-color: rgb(0, 250, 33);
+    background-color: rgb(17, 0, 250);
 }
 
 #frames {
@@ -30,5 +30,9 @@ h1, h2, h3, p {
 
 #paint {
     background-color: rgb(143, 235, 135);
+}
+
+#wall-paints {
+    background-color: yellowgreen;
 }
 
